@@ -1,0 +1,3 @@
+read.md 에서 md 는 markdown의약자임.
+
+[md 사용법](https://blog.naver.com/thefreethinker/223567719701)
