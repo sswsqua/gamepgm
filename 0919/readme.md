@@ -7,6 +7,9 @@
 
 ![image](https://github.com/user-attachments/assets/3c164c23-252b-4752-897a-3681e6682bab)
 
+음계와 주파수 : 음계에 따른 주파수를 출력함
+
+![image](https://github.com/user-attachments/assets/d82ff04c-7ab9-49c2-980f-d0b2fabdf85f)
 
 
 
