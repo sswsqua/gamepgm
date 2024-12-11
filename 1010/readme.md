@@ -5,10 +5,18 @@
 업그레이드한 게임 ㅡ 말타며 활쏘기
 
 1. 게임 소개와 모드 선택
-   
+
+![image](https://github.com/user-attachments/assets/db86be3c-9808-49be-87dd-7f8a61389ec2)
+
+
+   ![image](https://github.com/user-attachments/assets/f1c02d5e-49e6-4c9d-9acf-d7a65c8b6bc9)
+
 게임이 시작되면 intro_game() 함수가 실행되어 게임 소개가 출력됩니다.
 
 사용자는 select_mode() 함수에서 5가지 모드 중 하나를 선택할 수 있습니다:
+
+![image](https://github.com/user-attachments/assets/3d43666c-617d-48ae-b0ea-3b0ec94644b1)
+
 
 제한시간 게임 (1번 모드): 지정된 시간 동안 타겟 문자를 맞추는 게임.
 
@@ -23,17 +31,29 @@
 2. 게임 진행 
 각 모드에 따라 다른 방식으로 게임이 진행됩니다.
 
-예를 들어, 반응 게임 모드에서는 타겟 문자가 무작위 위치에 나타나고, 사용자는 문자를 맞추는 것이 목표입니다.
+![image](https://github.com/user-attachments/assets/31ac5e1b-ad27-4045-bef3-a1f2edd4c0c2)
 
-오답 게임 모드는 사용자가 정해진 횟수 동안 타겟을 맞추는 방식입니다.
+
+예를 들어, 시간 제한 모드에서는 타겟 문자가 무작위 위치에 나타나고, 사용자는 문자를 맞추는 것이 목표입니다.
+
+제한 횟수 모드는 사용자가 정해진 횟수 동안 타겟을 맞추는 방식입니다.
 
 3. 점수와 경험치
 
+![image](https://github.com/user-attachments/assets/33cc0c76-29d4-4726-b6d2-a310a5c1fbaf)
+
+
 게임에서 점수를 얻고, 경험치를 쌓을 수 있습니다. 경험치가 일정량 이상 쌓이면 레벨업을 하며, 레벨에 따라 게임이 점점 어려워질 수 있습니다.
+
+![image](https://github.com/user-attachments/assets/51028775-ef5d-43df-b3eb-125b22291ec7)
+
 
 상점에서는 점수를 이용해 아이템을 구매하고, 레벨을 올릴 수 있습니다. 상점에서 구매할 수 있는 아이템은 점수와 경험치를 증가시키는 것들입니다.
 
 4. 스킨 변경
+
+![image](https://github.com/user-attachments/assets/41d42aea-ed0b-40e5-80a1-c0abd6c89ba1)
+
 
  타겟 문자의 스킨을 A 또는 H로 바꿀 수 있습니다. 이는 게임의 외형을 바꾸는 요소입니다.
 
@@ -79,3 +99,6 @@ if (achievement_unlocked) {
 
    printf("아직 업적을 달성하지 못했습니다.\n");
 }
+
+
+
