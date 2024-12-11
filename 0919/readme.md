@@ -11,7 +11,11 @@
 
 ![image](https://github.com/user-attachments/assets/d82ff04c-7ab9-49c2-980f-d0b2fabdf85f)
 
+음 출력 : 도레미파솔라시도~ 도시라솔파미래도 음 출력 ( 화면으로 표현되지는 않음 )
+![image](https://github.com/user-attachments/assets/7854c2c9-1c1b-4872-988e-737b8869da23)
 
+키 입력받아 음 출력 : 키를 입력받아 해당 음을 출력
+![image](https://github.com/user-attachments/assets/b505b6b4-505a-4b0a-9f2a-196d40c0dafb)
 
 
 
