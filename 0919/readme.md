@@ -26,6 +26,7 @@
 ![image](https://github.com/user-attachments/assets/7854c2c9-1c1b-4872-988e-737b8869da23)
 
 키 입력받아 음 출력 : 키를 입력받아 해당 음을 출력
+
 ![image](https://github.com/user-attachments/assets/b505b6b4-505a-4b0a-9f2a-196d40c0dafb)
 
 3. 자료 구조
