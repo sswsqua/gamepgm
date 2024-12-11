@@ -52,3 +52,30 @@ display_current_time()은 현재 시간을 표시합니다.
 gotoxy() 함수는 콘솔에서 커서를 지정된 위치로 이동시키는 함수입니다.
 
 게임은 getch() 함수로 사용자의 키 입력을 처리하고, 게임을 진행하며, 이를 통해 타겟을 맞추는 동작을 합니다.
+
+
+
+7. 추가적으로 하나 더 업그레이드하기 진행.
+
+업적을 추가하였습니다.
+
+int achievement_score = 0;  // 업적 점수
+
+int achievement_unlocked = 0;  // 업적 달성 여부
+
+if (mode == 6) {  // 업적 열람실
+
+   system("cls");
+    
+   printf("업적 열람실\n");
+
+   printf("업적 점수: %d\n", achievement_score);
+   
+if (achievement_unlocked) {
+
+   printf("100점 업적을 달성했습니다!\n");
+   
+} else {
+
+   printf("아직 업적을 달성하지 못했습니다.\n");
+}
