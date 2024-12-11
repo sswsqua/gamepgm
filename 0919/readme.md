@@ -7,12 +7,6 @@
 
 ![image](https://github.com/user-attachments/assets/3c164c23-252b-4752-897a-3681e6682bab)
 
-음 출력 파일 : 음계와 주파수를 출력합니다.
-
-![image](https://github.com/user-attachments/assets/4930ba99-2e01-4c9a-8513-9fc7f355dd2d)
-
-
-
 
 
 
